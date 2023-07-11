@@ -3,6 +3,7 @@
 Steps to getting my MacOS ready for dev.
 
 1. Install git and MacOS dev tools: `git`
+1. Create zsh profile: `touch ~/.zshrc`
 1. Install brew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 1. Install iterm2: `brew install --cask iterm2`
 1. iTerm
@@ -20,4 +21,16 @@ Steps to getting my MacOS ready for dev.
      sudo /Volumes/Docker/Docker.app/Contents/MacOS/install
      sudo hdiutil detach /Volumes/Docker
      ```
-1. NVM
+1. Install NVM: `brew install nvm`
+    ```
+    mkdir ~/.nvm
+    nvm install 
+    ```
+    - Add nvm to `~/.zshrc`
+       ```
+       code ~/.zshrc
+       # Write the following to the profile (uncommented)
+       #export NVM_DIR="$HOME/.nvm"
+       #    [ -s "$HOMEBREW_PREFIX/opt/nvm/nvm.sh" ] && \. "$HOMEBREW_PREFIX/opt/nvm/nvm.sh"
+       #    [ -s "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" ] && \. "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm"
+       ```
