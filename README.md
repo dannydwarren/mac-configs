@@ -1,4 +1,4 @@
-# macos-configs
+# mac-configs
 
 Steps to getting my MacOS ready for dev.
 
