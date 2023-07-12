@@ -35,13 +35,7 @@ Steps to getting my MacOS ready for dev.
        #    [ -s "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm" ] && \. "$HOMEBREW_PREFIX/opt/nvm/etc/bash_completion.d/nvm"
        ```
 1. Install dotnet
-    - [Download install script](https://dotnet.microsoft.com/en-us/download/dotnet/scripts)
-    - Install 3.1
-        ```
-        cd ~/Downloads
-        chmod +x dotnet-install.sh
-        ./dotnet-install.sh --channel 3.1
-        ```
+    - [.NET Core 3.1](https://download.visualstudio.microsoft.com/download/pr/c319dd8b-4ea5-473e-8609-c36f31c8186e/c9633afb3084888a8c62fa224512050b/dotnet-sdk-3.1.426-osx-x64.pkg)
 1. Install node: `nvm install --lts`
 1. Install yarn: `brew install yarn`
 1. Install gulp: `npm install --global gulp-cli`
