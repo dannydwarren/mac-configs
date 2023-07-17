@@ -3,7 +3,8 @@
 Steps to getting my MacOS ready for dev.
 
 1. Install git and MacOS dev tools: `git`
-    - Load [danny.gitconfig](https://github.com/dannydwarren/machine-configs/blob/main/git/danny.gitconfig)
+    - ```code ~/.gitconfig```
+    - Copy [danny.gitconfig](https://github.com/dannydwarren/machine-configs/blob/main/git/danny.gitconfig) into local `.gitconfig`
 1. Create zsh profile: `touch ~/.zshrc`
 1. Install brew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 1. Install iterm2: `brew install --cask iterm2`
