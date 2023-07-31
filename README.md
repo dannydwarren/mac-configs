@@ -14,6 +14,7 @@ Steps to getting my MacOS ready for dev.
     brew tap microsoft/git
     brew install --cask git-credential-manager-core
     ```
+1. Install MS Edge: `brew install --cask microsoft-edge`
 1. Install VS Code: `brew install --cask visual-studio-code`
 1. Docker [for Mac](https://docs.docker.com/desktop/install/mac-install/)
    - [Download Docker Desktop Installer](https://desktop.docker.com/mac/main/amd64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-amd64&_gl=1*11tg1v6*_ga*NjU1NTc3OTAwLjE2ODkxMTA3Mzg.*_ga_XJWPQMJYHQ*MTY4OTExMDczOC4xLjEuMTY4OTExMDkxNS41MS4wLjA.)
