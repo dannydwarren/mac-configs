@@ -44,3 +44,5 @@ Steps to getting my MacOS ready for dev.
 1. Install yarn: `brew install yarn`
 1. Install gulp: `npm install --global gulp-cli`
 1. Install JetBrains Toolbox: [Download](https://www.jetbrains.com/toolbox-app/)
+    - Install PyCharm Community
+1. Install Logi Options+: `brew install --cask logi-options-plus`
