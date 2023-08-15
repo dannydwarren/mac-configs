@@ -46,3 +46,9 @@ Steps to getting my MacOS ready for dev.
 1. Install JetBrains Toolbox: [Download](https://www.jetbrains.com/toolbox-app/)
     - Install PyCharm Community
 1. Install Logi Options+: `brew install --cask logi-options-plus`
+    - Scroll Direction: Standard
+    - Scrolling Speed: 60%
+    - Scrolling Force: 56%
+    - Smooth Scrolling: Off
+    - Smart Shift: Off
+    - NOTE: Looks like the app backsup device settings! May not need to restore manually.
