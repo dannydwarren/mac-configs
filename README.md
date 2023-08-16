@@ -52,3 +52,6 @@ Steps to getting my MacOS ready for dev.
     - Smooth Scrolling: Off
     - Smart Shift: Off
     - NOTE: Looks like the app backsup device settings! May not need to restore manually.
+1. [Install Logitech G HUB](https://www.logitechg.com/en-us/innovation/g-hub.html)
+1. Install linearmouse.app: `brew install --cask linearmouse`
+1. [Intall Spotify](https://www.spotify.com/us/download/mac/)
