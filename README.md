@@ -61,5 +61,5 @@ Steps to getting my MacOS ready for dev.
 1. Install chromedriver
     - Install: `brew install -cask chromedriver`
     - Upgrade: `brew upgrade chromedriver`
-    - Remove quarantine flag: `xattr -d come.apple.quarantine /usr/local/bin/chromedriver`
+    - Remove quarantine flag: `xattr -d com.apple.quarantine /usr/local/bin/chromedriver`
     - Test: Finder -> `/usr/local/bin` -> right-click open chromedriver -> close
