@@ -56,6 +56,7 @@ Steps to getting my MacOS ready for dev.
 1. Install linearmouse.app: `brew install --cask linearmouse`
 1. [Intall Spotify](https://www.spotify.com/us/download/mac/)
 1. Install pyenv: `brew install pyenv`
+    - Init: `pyenv init`
 1. Install Python 3.8: `pyenv install 3.8`
     - Set as global Python version: `pyenv global 3.8`
 1. Install chromedriver
