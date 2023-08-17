@@ -55,3 +55,4 @@ Steps to getting my MacOS ready for dev.
 1. [Install Logitech G HUB](https://www.logitechg.com/en-us/innovation/g-hub.html)
 1. Install linearmouse.app: `brew install --cask linearmouse`
 1. [Intall Spotify](https://www.spotify.com/us/download/mac/)
+1. Install pyenv: `brew install pyenv`
