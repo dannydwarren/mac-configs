@@ -43,8 +43,9 @@ Steps to getting my MacOS ready for dev.
 1. Install node: `nvm install --lts`
 1. Install yarn: `brew install yarn`
 1. Install gulp: `npm install --global gulp-cli`
-1. Install JetBrains Toolbox: [Download](https://www.jetbrains.com/toolbox-app/)
+1. Install JetBrains Toolbox: `brew install --cask jetbrains-toolbox`
     - Install PyCharm Community
+    - Install Rider
 1. Install Logi Options+: `brew install --cask logi-options-plus`
     - Scroll Direction: Standard
     - Scrolling Speed: 60%
@@ -64,5 +65,4 @@ Steps to getting my MacOS ready for dev.
     - Upgrade: `brew upgrade chromedriver`
     - Remove quarantine flag: `xattr -d com.apple.quarantine /usr/local/bin/chromedriver`
     - Test: Finder -> `/usr/local/bin` -> right-click open chromedriver -> close
-1. Install JetBrains Toolbox: `brew install --cask jetbrains-toolbox`
 1. Install Discord: `brew install --cask discord`
