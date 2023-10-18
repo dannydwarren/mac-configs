@@ -64,4 +64,5 @@ Steps to getting my MacOS ready for dev.
     - Upgrade: `brew upgrade chromedriver`
     - Remove quarantine flag: `xattr -d com.apple.quarantine /usr/local/bin/chromedriver`
     - Test: Finder -> `/usr/local/bin` -> right-click open chromedriver -> close
+1. Install JetBrains Toolbox: `brew install --cask jetbrains-toolbox`
 1. Install Discord: `brew install --cask discord`
