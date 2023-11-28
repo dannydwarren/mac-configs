@@ -68,3 +68,4 @@ Steps to getting my MacOS ready for dev.
     - Test: Finder -> `/usr/local/bin` -> right-click open chromedriver -> close
 1. Install Discord: `brew install --cask discord`
 1. Install jq: `brew install jq`
+1. [Install Global Mic Control](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12)
