@@ -67,3 +67,4 @@ Steps to getting my MacOS ready for dev.
     - Remove quarantine flag: `xattr -d com.apple.quarantine /usr/local/bin/chromedriver`
     - Test: Finder -> `/usr/local/bin` -> right-click open chromedriver -> close
 1. Install Discord: `brew install --cask discord`
+1. Install jq: `brew install jq`
